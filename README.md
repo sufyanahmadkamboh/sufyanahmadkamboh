@@ -105,6 +105,13 @@ Alongside my professional work, I create and maintain educational content to hel
 - **[Linux Notes by Sufyan](https://github.com/sufyanahmadkamboh/linux-notes-by-sufyan)**  
   Comprehensive Linux course with hands-on examples, covering installation, networking, commands, editors (Vim, Nano), file management, system monitoring, package managers, and web server setups with Apache, Nginx, and SSL.  
 
+# 📺 DevOps Course on YouTube  
+🎥 [Watch the full course here](https://youtu.be/rUTuNee9SBA?list=PLJB9b1bbB85F23di_ydm_cZ9efYqfRzTq)
+
+
+# 📺 AWS Course on YouTube  
+🎥 [Watch the full course here](https://youtu.be/R6yysJg_rKE?list=PLJB9b1bbB85EabGxfihssYhe46dZRHXfn)
+
 *(More repositories and learning content will be added as I expand this section to cover Docker, Kubernetes, Jenkins, Terraform, and other DevOps tools.)*  
 
 ---
