@@ -105,6 +105,16 @@ Alongside my professional work, I create and maintain educational content to hel
 - **[Linux Notes by Sufyan](https://github.com/sufyanahmadkamboh/linux-notes-by-sufyan)**  
   Comprehensive Linux course with hands-on examples, covering installation, networking, commands, editors (Vim, Nano), file management, system monitoring, package managers, and web server setups with Apache, Nginx, and SSL.  
 
+---
+
+# 📺 Bash Scripting Course on YouTube  
+🎥 *(Coming soon)*  
+
+- **[Bash Scripts by Sufyan](https://github.com/sufyanahmadkamboh/bash-scripts-by-sufyan)**  
+  A growing collection of practical Bash scripts for Linux servers and DevOps tasks. Includes **system monitoring, service watchdogs, SSL checks, log management, user automation, and firewall rules**. Each script has built-in `-h/--help`, proper error handling, and examples for cron integration.  
+
+---
+
 # 📺 DevOps Course on YouTube  
 🎥 [Watch the full course here](https://youtu.be/rUTuNee9SBA?list=PLJB9b1bbB85F23di_ydm_cZ9efYqfRzTq)
 
