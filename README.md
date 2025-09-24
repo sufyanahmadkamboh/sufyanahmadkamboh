@@ -122,7 +122,7 @@ Alongside my professional work, I create and maintain educational content to hel
 # 📺 AWS Course on YouTube  
 🎥 [Watch the full course here](https://youtu.be/R6yysJg_rKE?list=PLJB9b1bbB85EabGxfihssYhe46dZRHXfn)
 
-- **[AWS by Sufyan]([https://github.com/sufyanahmadkamboh/bash-scripts-by-sufya](https://github.com/sufyanahmadkamboh/aws-notes-by-sufyan.git )n)**  
+- **[AWS by Sufyan](https://github.com/sufyanahmadkamboh/aws-notes-by-sufyan.git)**  
 Complete AWS learning journey with hands-on labs, CLI + Console examples, and architecture designs. Covers IAM, EC2, VPC, S3, Load Balancers, Auto Scaling, RDS, Route 53, Lambda, CloudWatch, CloudTrail, ECS, EKS, CI/CD, Infrastructure as Code, Cost Optimization, and Well-Architected Framework.
 
 
