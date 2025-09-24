@@ -115,15 +115,16 @@ Alongside my professional work, I create and maintain educational content to hel
 
 ---
 
-# 📺 DevOps Course on YouTube  
-🎥 [Watch the full course here](https://youtu.be/rUTuNee9SBA?list=PLJB9b1bbB85F23di_ydm_cZ9efYqfRzTq)
-
-
 # 📺 AWS Course on YouTube  
 🎥 [Watch the full course here](https://youtu.be/R6yysJg_rKE?list=PLJB9b1bbB85EabGxfihssYhe46dZRHXfn)
 
 - **[AWS Notes by Sufyan](https://github.com/sufyanahmadkamboh/aws-notes-by-sufyan.git)**  
 Complete AWS learning journey with hands-on labs, CLI + Console examples, and architecture designs. Covers IAM, EC2, VPC, S3, Load Balancers, Auto Scaling, RDS, Route 53, Lambda, CloudWatch, CloudTrail, ECS, EKS, CI/CD, Infrastructure as Code, Cost Optimization, and Well-Architected Framework.
+
+---
+
+# 📺 DevOps Course on YouTube  
+🎥 [Watch the full course here](https://youtu.be/rUTuNee9SBA?list=PLJB9b1bbB85F23di_ydm_cZ9efYqfRzTq)
 
 
 *(More repositories and learning content will be added as I expand this section to cover Docker, Kubernetes, Jenkins, Terraform, and other DevOps tools.)*  
