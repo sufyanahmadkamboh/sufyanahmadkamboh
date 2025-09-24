@@ -2,7 +2,7 @@
 
 **DevOps Engineer | Cloud & Infrastructure Specialist**  
 📍 Lahore, Pakistan  
-📞 +92 320 1479674 / +92 316 4047858  
+📞 +92 316 4047858  
 ✉️ sufyanahmad1@gmail.com  
 
 ---
