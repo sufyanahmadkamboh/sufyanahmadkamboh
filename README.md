@@ -95,5 +95,16 @@ Versatile **DevOps Engineer** with 5+ years of progressive experience in cloud i
 
 ---
 
-## 📌 References  
-Available upon request.  
+## 📚 Courses & Learning Repositories  
+
+Alongside my professional work, I create and maintain educational content to help others learn Linux, DevOps, and Cloud technologies. These repositories contain detailed notes, tutorials, and practical examples.  
+
+# 📺 Linux Course on YouTube  
+🎥 [Watch the full course here](https://youtu.be/tdxQ0O1qu9U?list=PLJB9b1bbB85HR7xXgpuWTibPWTprBEVi0)
+
+- **[Linux Notes by Sufyan](https://github.com/sufyanahmadkamboh/linux-notes-by-sufyan)**  
+  Comprehensive Linux course with hands-on examples, covering installation, networking, commands, editors (Vim, Nano), file management, system monitoring, package managers, and web server setups with Apache, Nginx, and SSL.  
+
+*(More repositories and learning content will be added as I expand this section to cover Docker, Kubernetes, Jenkins, Terraform, and other DevOps tools.)*  
+
+---
