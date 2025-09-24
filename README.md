@@ -126,6 +126,9 @@ Complete AWS learning journey with hands-on labs, CLI + Console examples, and ar
 # 📺 DevOps Course on YouTube  
 🎥 [Watch the full course here](https://youtu.be/rUTuNee9SBA?list=PLJB9b1bbB85F23di_ydm_cZ9efYqfRzTq)
 
+- **[DevOps Learning Notes by Sufyan](https://github.com/sufyanahmadkamboh/DevOps-learning-notes-by-sufyan.git)**  
+A structured repository with detailed DevOps learning notes. Covers **Git, Docker, Kubernetes, Jenkins, Terraform, Ansible, Monitoring, and Security**.  
+
 
 *(More repositories and learning content will be added as I expand this section to cover Docker, Kubernetes, Jenkins, Terraform, and other DevOps tools.)*  
 
