@@ -2,7 +2,7 @@
 
 ### DevOps Engineer | AWS · Kubernetes · Terraform · CI/CD
 
-📍 Herborn, Germany · 💼 DevOps Engineer at TekHQS · ✉️ sufyanahmad1@gmail.com · [LinkedIn](https://linkedin.com/in/sufyanahmadkamboh)
+📍 Herborn, Germany · 💼 DevOps Engineer at TekHQS · ✉️ sufyanahmad1@gmail.com · [LinkedIn](https://linkedin.com/in/sufyanahmadkamboh) · 🌐 [Portfolio](https://sufyanahmadkamboh.github.io/portfolio/)
 
 ![Open to work](https://img.shields.io/badge/Open%20to%20work-DevOps%20%7C%20Cloud%20%7C%20Platform-2ea44f?style=flat)
 ![Work authorization](https://img.shields.io/badge/Germany-Full%20work%20authorization%20%C2%B7%20no%20sponsorship%20needed-1d5fa8?style=flat)
@@ -34,6 +34,8 @@ I have **5 years of DevOps** and **6+ years of production infrastructure** exper
 ---
 
 ## 🚀 Featured projects
+
+👉 Full portfolio: **[sufyanahmadkamboh.github.io/portfolio](https://sufyanahmadkamboh.github.io/portfolio/)**
 
 | Project | What it shows | Stack |
 |---|---|---|
